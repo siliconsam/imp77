@@ -1,7 +1,9 @@
 "# imp77" 
 
 Source code and executables for DOS/Windows/Unix Intel 386 implementations
-of an IMP77 compiler. (Not licensed for commercial use)
+of an IMP77 compiler.
+N.B. (1) Not licensed for commercial use
+     (2) Source code provided for research.
 
 For more information about IMP77 see the Edinburgh University archive at
 http://history.dcs.ed.ac.uk/archive/languages/
